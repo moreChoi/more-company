@@ -15,6 +15,6 @@ export const COMPANY_INFO = {
     { label: "資本金", value: "1,000万円" },
     { label: "事業内容", value: "システム設計・開発・保守サポート、ITコンサルティング" },
     { label: "所在地", value: "東京都新宿区片町2-4 菱和ヒル2F" },
-    { label: "連絡先", value: "info@example.com / 03-XXXX-XXXX" }
+    { label: "連絡先", value: "morejp@morejp.net / 03-6380-4079" }
   ]
 };
