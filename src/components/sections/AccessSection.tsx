@@ -25,7 +25,7 @@ export default function AccessSection() {
                   電車でのアクセス
                 </h4>
                 <ul className="text-sm md:text-base text-gray-600 space-y-2 list-none p-0">
-                  <li>曙橋駅から徒歩約３分</li>
+                  <li>曙橋駅のA4出口から徒歩約３分</li>
                 </ul>
               </div>
             </div>
